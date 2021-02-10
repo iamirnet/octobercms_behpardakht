@@ -1,0 +1,22 @@
+{
+    "name": "iamirnet/behpardakht",
+    "description": "BehPardakht Mellat for payment gateway",
+    "keywords": ["php","BehPardakht", "Mellat", "payment", "pay", "gateway"],
+    "homepage": "https://php.iamir.net/packages/behpardakht",
+    "license": "MIT",
+    "authors": [
+        {
+            "name" : "iamirnet",
+            "email" : "me@iamir.net",
+            "homepage": "https://iamir.net",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "iAmirNet\\BehPardakht\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}

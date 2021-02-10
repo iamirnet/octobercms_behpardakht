@@ -1,0 +1,19 @@
+fields:
+  base:
+    label: iamirnet.behpardakht::lang.behpardakht.description
+    type: section
+  behpardakht_terminal_id:
+    label: iamirnet.behpardakht::lang.behpardakht.terminal_id
+    span: auto
+    type: text
+    tab: iamirnet.behpardakht::lang.behpardakht.title
+  behpardakht_user_name:
+    label: iamirnet.behpardakht::lang.behpardakht.user_name
+    span: auto
+    type: text
+    tab: iamirnet.behpardakht::lang.behpardakht.title
+  behpardakht_password:
+    label: iamirnet.behpardakht::lang.behpardakht.password
+    span: auto
+    type: text
+    tab: iamirnet.behpardakht::lang.behpardakht.title

@@ -1,0 +1,62 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "40e785fd4784d75952404aa7821467f3",
+    "packages": [
+        {
+            "name": "iamirnet/behpardakht",
+            "version": "1.0.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/iamirnet/behpardakht.git",
+                "reference": "9ae4fba716b6a7f3dbf502cf7f22c7dbe75fb326"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/iamirnet/behpardakht/zipball/9ae4fba716b6a7f3dbf502cf7f22c7dbe75fb326",
+                "reference": "9ae4fba716b6a7f3dbf502cf7f22c7dbe75fb326",
+                "shasum": ""
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "iAmirNet\\BehPardakht\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "iamirnet",
+                    "email": "me@iamir.net",
+                    "homepage": "https://iamir.net",
+                    "role": "Developer"
+                }
+            ],
+            "description": "BehPardakht Mellat for payment gateway",
+            "homepage": "https://php.iamir.net/packages/behpardakht",
+            "keywords": [
+                "BehPardakht",
+                "gateway",
+                "mellat",
+                "pay",
+                "payment",
+                "php"
+            ],
+            "time": "2021-02-10T04:53:25+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}
