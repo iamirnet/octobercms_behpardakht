@@ -64,7 +64,7 @@ class Plugin extends PluginBase
                 'label'       => 'iamirnet.behpardakht::lang.behpardakht.title',
                 'description' => 'iamirnet.behpardakht::lang.behpardakht.description',
                 'category'    => 'iamirnet.minimall::lang.settings.gateway.title',
-                'icon'        => 'icon-credit-card',
+                'icon'        => 'icon-cog',
                 'class'       => BehPardakhtSettings::class,
                 'order'       => 700,
                 'permissions' => ['iamirnet.behpardakht.access_behpardakht']
